@@ -1,0 +1,10 @@
+{
+  "name": "incremental-dom",
+  "main": "dist/incremental-dom.js",
+  "version": "0.2.0",
+  "homepage": "https://github.com/egis/incremental-dom",
+  "authors": [
+    "The Incremental DOM Authors"
+  ],
+  "license": "Apache-2.0"
+}
